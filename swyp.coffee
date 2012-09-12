@@ -52,4 +52,4 @@ $ ->
     $('#filePreview').attr('src', previewImageURL)
   
   ###did load implementation!###
-  window.updatePromptWithNewFileURL "http://swyp.us/out/filePrompt.jpg", "image/jpg"
+  window.updatePromptWithNewFileURL "http://swyp.us/prez/img/prez.JPG", "image/jpg"
